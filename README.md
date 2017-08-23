@@ -1,2 +1,2 @@
 # **Static Site Seed**
-Seed project for a static website project.
+Seed for a static website project.
